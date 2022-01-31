@@ -6,8 +6,8 @@ clickCount=1
 // For open and close side div 
 openNav.addEventListener("click", function () {
     if(clickCount == 1){
-        side_menue.style.width = "30%";
-        main_dashboard.style.marginRight = "30%";
+        side_menue.style.width = "250px";
+        main_dashboard.style.marginRight = "250px";
         side_menue.style.visibility = "visible";
         clickCount=0
     }
