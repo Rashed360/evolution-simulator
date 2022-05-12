@@ -8,3 +8,6 @@ Evolution Simulator is a project inspired by a [Video](https://www.youtube.com/w
 ### Technologies to used:
 - ReactJS
 - JavaScript
+
+### Other References
+- [I programmed some creatures. They Evolved.](https://www.youtube.com/watch?v=N3tRFayqVtk)
